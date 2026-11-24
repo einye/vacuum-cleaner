@@ -37,4 +37,4 @@ pip install matplotlib
 
 ## Acknowledgements
 
-Artificial Intelligence: A Modern Approach (Russell & Norvig) - for the classic vacuum world problem
+Artificial Intelligence: A Modern Approach (Russell & Norvig) - for the classic vacuum world problem.
