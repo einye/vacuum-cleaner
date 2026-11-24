@@ -1,7 +1,6 @@
 # Vacuum Cleaner World Simulation
 
 A visual simulation of an **intelligent vacuum cleaner agent** operating in a grid of rooms. The agent uses a **greedy nearest-neighbor strategy** to find and clean every dirty room as efficiently as possible - all animated in real time with Matplotlib.
-Pending text insert here
 
 This is a classic example from **artificial intelligence** textbooks (Russell & Norvig's *AIMA*), demonstrating how a simple rational agent can solve a well-defined environment.
 
