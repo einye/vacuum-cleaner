@@ -2,7 +2,7 @@
 
 A visual simulation of an **vacuum cleaner agent** operating in a grid of rooms. The agent uses a **greedy nearest-neighbor strategy** to find and clean the dirty rooms as efficiently as possible - all animated in real time with Matplotlib.
 
-This is a classic example from **artificial intelligence** textbooks (Russell & Norvig's *AIMA*), demonstrating how a simple rational agent can solve a well-defined environment.
+This is a classic example from **artificial intelligence** textbooks (Russell & Norvig's *AIMA*), that demonstrates how a simple rational agent can solve a well-defined environment.
 
 ![Screenshot](screenshot.png) ![Screenshot](clean_screenshot.png)
 
